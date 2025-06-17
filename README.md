@@ -1,4 +1,4 @@
-# JS Game Starter
+# Voxel Builder
 
 ## 🚀 Setup
 \`\`\`bash
@@ -11,5 +11,8 @@ When ready for local development:
 npm install
 npm run dev
 \`\`\`
+
+## Game
+"Voxel Builder" is a lightweight browser-based Minecraft-style demo. Left-click on cubes to place new blocks and right-click to remove them. Use the mouse to rotate the scene.
 
 GitHub Pages deployment is automated to \`gh-pages\` branch.
