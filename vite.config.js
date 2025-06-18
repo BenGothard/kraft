@@ -1,6 +1,7 @@
 export default {
-  root: ".",
+  root: '.',
+  base: '/kraft/',
   build: {
-    outDir: "docs"
+    outDir: 'docs'
   }
 }
